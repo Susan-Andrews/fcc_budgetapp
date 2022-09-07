@@ -19,6 +19,10 @@ def create_spend_chart(categories):
   create_spend_chart that takes a list of categories as an argument. It should return a 
   string that is a bar chart.
   """
+  
+  #Need updation for the spacing inbetween the o
+  
+  
   res = "Percentage spent by category\n"
   i=100
   totals=getTotals(categories)
